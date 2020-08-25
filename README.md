@@ -1,6 +1,5 @@
 # FlashPhy
-![Background Image](pexels-adrien-olichon-2931270.jpg)
-<html style="background-color:rgba(55, 55, 55, 0.5);">
+<html>
   <body>
     <p1 style="color:black;">
      <br>Hi!! This is Harsh Wadhwa<br>
